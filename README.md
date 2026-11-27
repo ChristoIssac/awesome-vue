@@ -883,7 +883,7 @@ _Set of components without layout system_
 - [Naive UI](https://www.naiveui.com/) - A Vue 3 Component Library. Fairly Complete, Theme Customizable, Uses TypeScript, Fast.
 - [keen-ui](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
 - [uiv](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
-- [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
+- [Syncfusion Vue components](https://www.syncfusion.com/vue-components) - 140+ Vue components including Data Grid, Charts, Scheduler and Diagram.
 - [jqwidgets](https://www.jqwidgets.com/vue/) - 70+ Vue.js 2.0 UI Components with Material Design themes.
 - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
 - [element-pro-components](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
@@ -938,6 +938,7 @@ _Set of admin template_
 _Layout for the overall / main view_
 
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
+- [Syncfusion Vue Dashboard Layout](https://www.syncfusion.com/vue-components/vue-dashboard-layout) - Grid-based layout of draggable and resizable panels for dashboards.
 - [vue-masonry](https://github.com/shershen08/vue-masonry) - Vue.js directive for masonry blocks layouting.
 - [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - A vue (2.x) component support big data by using virtual scroll list.
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - Component to scroll a large amount of elements efficiently (Vue 2.x).
@@ -982,6 +983,11 @@ _Tables / data grids_
 - [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
 - [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
 - [vtable-guild](https://github.com/parade0393/vtable-guild) - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
+- [Syncfusion Vue Data Grid](https://www.syncfusion.com/vue-components/vue-grid) - Data grid with virtual scrolling, filtering, grouping, editing and Excel/PDF export.
+- [Syncfusion Vue Tree Grid](https://www.syncfusion.com/vue-components/vue-tree-grid) - Tree grid for hierarchical data with sorting, filtering, editing and Excel/PDF export.
+- [Syncfusion Vue Pivot Table](https://www.syncfusion.com/vue-components/vue-pivot-table) - Pivot table with grouping, aggregation, drill-down, a field list and Excel/PDF export.
+- [Syncfusion Vue Gantt Chart](https://www.syncfusion.com/gantt-sdk/vue-gantt-chart) - Gantt chart with task dependencies, resource view, timeline zooming and drag-and-drop editing.
+- [Syncfusion Vue Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/vue-spreadsheet-editor) - Spreadsheet with formulas, formatting and XLSX import and export.
 
 #### Notification
 
@@ -1074,6 +1080,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-data-ui](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 60+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
 - [vue-speedometer](https://github.com/palerdot/vue-speedometer) - Vue component for showing speedometer like gauge using d3.
 - [TradeCanvas](https://github.com/bonguynvan/tradecanvas) - Vue 3 component for trading charts: candlesticks to Renko, 111 indicators, drawing tools and live exchange feeds.
+- [Syncfusion Vue Charts](https://www.syncfusion.com/vue-components/vue-charts) - Interactive charts and graphs with zooming, tooltips and export.
 
 #### Time
 
@@ -1095,6 +1102,7 @@ _Display non-editable events in a Calendar_
 - [qalendar](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 - [schedule-x](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 - [vue-calendar](https://github.com/Kodeglot/vue-calendar) - A fully-featured, customizable calendar date picker component for Vue 3 with built-in Tailwind CSS support. Perfect for building scheduling applications, event calendars, and date pickers.
+- [Syncfusion Vue Scheduler](https://www.syncfusion.com/scheduler-sdk/vue-scheduler) - Event calendar with day, week, month, timeline and agenda views, resource grouping and drag-and-drop.
 
 #### Map
 
@@ -1106,6 +1114,7 @@ _Display non-editable events in a Calendar_
 - [@maxel01/vue-leaflet](https://github.com/maxel01/vue-leaflet) - Vue 3 components for Leaflet (2.x) maps.
 - [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
 - [map-chart](https://github.com/noeGnh/map-chart) - Vue 3 and React components for displaying dynamic data on a world, continents, countries and custom maps.
+- [Syncfusion Vue Maps](https://www.syncfusion.com/vue-components/vue-maps-library) - Maps component for geographical data with markers, bubbles, legends and GeoJSON shapes.
 
 #### Audio / Video
 
@@ -1134,6 +1143,7 @@ _Display non-editable events in a Calendar_
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 - [@tato30/vue-pdf](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
 - [@jasy/vue](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
+- [Syncfusion Vue PDF Viewer](https://www.syncfusion.com/pdf-viewer-sdk/vue-pdf-viewer) - View, annotate, fill forms in and sign PDF files.
 
 #### Tree
 
@@ -1147,6 +1157,7 @@ _Display non-editable events in a Calendar_
 - [coya](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 - [vue-skia](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Interactive, customizeabe, graph & flowchart editor for Vue3
+- [Syncfusion Vue Diagram](https://www.syncfusion.com/diagram-sdk/vue-diagram) - Diagram component for flowcharts, org charts, mind maps and BPMN diagrams.
 
 #### Social Sharing
 
@@ -1167,6 +1178,7 @@ _Display non-editable events in a Calendar_
 #### Miscellaneous
 
 - [vue-kanban](https://github.com/BrockReece/vue-kanban) - A flexible drag and drop kanban board component
+- [Syncfusion Vue Kanban](https://www.syncfusion.com/gantt-sdk/vue-kanban-board) - Kanban board with swimlanes, card templates, WIP limits and drag-and-drop.
 - [v-offline](https://github.com/vinayakkulkarni/v-offline) - Simple, tiny and easy to use detection of offline & online events for your Vue app (less than 390b minified)
 - [vue-connection-listener](https://github.com/Botre/vue-connection-listener) - Vue event bus plugin listening for online/offline changes.
 - [vue-prom](https://github.com/Botre/vue-prom) - Vue promise wrapper component.
@@ -1282,6 +1294,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-quilly](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 - [blok](https://github.com/JackUait/blok) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
 - [CyteEditor](https://github.com/cyte-editor/cyteeditor-examples) - Rich text editor SDK with Word/Excel paste fidelity, built-in snapshot & version comparison, and official adapters for Vue 3, Vue 2, React, Svelte, Angular, and Vanilla JS.
+- [Syncfusion Vue Rich Text Editor](https://www.syncfusion.com/rich-text-editor-sdk/vue-rich-text-editor) - WYSIWYG and Markdown editor with tables, image upload, paste cleanup and a customizable toolbar.
 
 ##### Image Manipulation
 
